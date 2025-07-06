@@ -15,7 +15,7 @@ const {
   description,
   image = {
     url: "/uploads/church-default.webp",
-    alt: "Church Name",
+    alt: "PageName",
   },
   type = "website",
   canonicalUrl,
@@ -24,9 +24,9 @@ const {
 // Get the canonical URL
 const canonicalURL = canonicalUrl || new URL(Astro.url.pathname, Astro.site);
 
-// Get Church address and contact info (would come from site config in a real implementation)
+// Get Page address and contact info (would come from site config in a real implementation)
 const churchInfo = {
-  name: "Church Name",
+  name: "PageName",
   address: {
     streetAddress: "123 Main Street",
     addressLocality: "Anytown",
@@ -35,7 +35,7 @@ const churchInfo = {
     addressCountry: "US",
   },
   telephone: "+1-555-123-4567",
-  email: "info@churchname.org",
+  email: "info@pagename.org",
   url: Astro.site?.toString() || "https://example.com",
 };
 ---
@@ -61,11 +61,11 @@ const churchInfo = {
 <meta property="twitter:image" content={new URL(image.url, Astro.site)} />
 <meta property="twitter:image:alt" content={image.alt} />
 
-<!-- JSON-LD Schema for Church -->
+<!-- JSON-LD Schema for Page -->
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Church",
+    "@type": "Page",
     "name": "${churchInfo.name}",
     "address": {
       "@type": "PostalAddress",

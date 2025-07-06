@@ -1,6 +1,6 @@
 # Contributing to maucariapacom-church-starter
 
-First off, thank you for considering contributing to the MauCariApa.com Church Starter template! We welcome contributions from the community to make this template even better for church websites PDPN.
+First off, thank you for considering contributing to the MauCariApa.com Page Starter template! We welcome contributions from the community to make this template even better for church websites PDPN.
 
 Whether you're fixing a bug, improving documentation, adding a new feature, or suggesting an enhancement, your help is appreciated.
 

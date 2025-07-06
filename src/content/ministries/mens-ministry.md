@@ -4,7 +4,7 @@ slug: "mens-ministry"
 logo: "/uploads/ministries/mens-ministry-logo.webp"
 summary: "Building strong Christian men through fellowship, discipleship, and service opportunities that strengthen faith and character."
 coordinator: "Robert Johnson"
-contact: "mens@churchname.org"
+contact: "mens@pagename.org"
 schedule: "Men's Breakfast: 1st Saturday 8:00 AM | Bible Study: Thursday 7:00 PM"
 order: 4
 draft: false
@@ -70,7 +70,7 @@ To develop men of character who lead with integrity, serve with humility, and li
 
 ### Community Service Projects
 - Home repairs for elderly and disabled
-- Church maintenance and improvements
+- Page maintenance and improvements
 - Community cleanup initiatives
 - Disaster relief assistance
 

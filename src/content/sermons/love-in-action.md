@@ -35,7 +35,7 @@ Jesus demonstrated the ultimate act of love through service when He washed His d
 
 ### Ways to Serve
 
-- **In Our Church**: Volunteering in ministries, helping with events
+- **In Our Page**: Volunteering in ministries, helping with events
 - **In Our Community**: Food banks, community cleanup, visiting elderly
 - **In Our Families**: Acts of kindness and service at home
 - **In Our Workplaces**: Being helpful and considerate colleagues

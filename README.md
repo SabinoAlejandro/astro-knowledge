@@ -14,10 +14,10 @@ Demo URL: [https://maucariapacom-church-starter.pages.dev](https://maucariapacom
 - **Mobile-First Responsive Design**: Tailwind CSS for beautiful, responsive layouts
 - **SEO Optimized**: Complete meta tags, JSON-LD Schema, and sitemap.xml
 - **CMS-Ready Structure**: Easily integrate with headless CMS solutions
-- **Comprehensive Church Website Sections**: All essential pages for a complete church website
+- **Comprehensive Page Website Sections**: All essential pages for a complete church website
 - **Accessibility Focus**: WCAG compliant design and markup
 - **Modern UI Components**: Reusable components with hover states and micro-interactions
-- **Integrated Church Icon**: Custom SVG church icon used throughout the site
+- **Integrated Page Icon**: Custom SVG church icon used throughout the site
 - **Image Optimization**: Proper image organization and fallback handling
 
 ## Project Structure
@@ -43,7 +43,7 @@ maucariapacom-church-starter/
 │   ├── content/          # Astro Content Collections
 │   │   ├── config.ts     # Collection schemas
 │   │   ├── staff/        # Staff member profiles
-│   │   ├── events/       # Church events
+│   │   ├── events/       # Page events
 │   │   ├── sermons/      # Sermon content
 │   │   ├── ministries/   # Ministry descriptions
 │   │   ├── blog/         # Blog posts
@@ -172,7 +172,7 @@ See `src/content/config.ts` for the complete schema definitions for all content 
 - **Ministries** (`/ministries`): All church ministries with detailed pages
 - **Sermons** (`/sermons`): Sermon archive with audio/video support and filtering
 - **Events** (`/events`): Upcoming and past events with registration support
-- **Blog** (`/blog`): Church blog with filtering and search
+- **Blog** (`/blog`): Page blog with filtering and search
 - **I'm New** (`/im-new`): First-time visitor information
 - **Contact** (`/contact`): Contact forms, location, staff contacts
 - **Giving** (`/giving`): Online giving information and financial transparency
@@ -194,7 +194,7 @@ Update your church information in the following files:
 - Site metadata in `astro.config.mjs`
 - SEO defaults in `src/layouts/BaseLayout.astro`
 - Contact information in `src/components/Global/Footer.astro`
-- Church details throughout the content files
+- Page details throughout the content files
 
 ### Styling
 
